@@ -1,0 +1,16 @@
+site_name: Mega husta stranka bro
+
+theme:
+  name: gitbook
+
+
+nav:
+  - Úvod: 'index.md'
+  - Maturitní četba: 'maturita.md'
+  - WA hodina: 'wa.md'
+
+extra_css:
+  - style.css
+
+
+    
